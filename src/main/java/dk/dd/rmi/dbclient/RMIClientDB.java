@@ -27,6 +27,7 @@ import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 
 public class RMIClientDB {
+    //change path to your src folder containing the created XML
     private static String Xml_file = "E:/intellijig projects software dev/SI_RMI_DB_homework/src/main/java/dk/dd/rmi/dbclient/Client_xml_data.xml";
 
     public static void main(String args[]) throws Exception {
